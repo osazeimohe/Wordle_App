@@ -31,7 +31,7 @@ GIF created with Lice Cap
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+
 I had some issues with the constraints. I noticed that everytime I changed the ID of a textView the other textView would jump upwards at runtime. I tackled this by updating the "constrained to" attribute with the new id. I also had trouble keeping track of which guess belong to which textView. So I created a variable to keep track of the number of clicks of the submit button. This helped me track the number of each guess
 
 ## License
