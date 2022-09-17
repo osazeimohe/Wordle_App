@@ -20,10 +20,10 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='wordleApp.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with Lice Cap 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -32,10 +32,11 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
+I had some issues with the constraints. I noticed that everytime I changed the ID of a textView the other textView would jump upwards at runtime. I tackled this by updating the "constrained to" attribute with the new id. I also had trouble keeping track of which guess belong to which textView. So I created a variable to keep track of the number of clicks of the submit button. This helped me track the number of each guess
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2022] [Osaze Imohe]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
