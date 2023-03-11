@@ -1,4 +1,4 @@
- *Wordle Applicaton*
+**Wordle Applicaton**
 
 **Osaze Imohe**
 
