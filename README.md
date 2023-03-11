@@ -1,6 +1,6 @@
-# Android Project 1 - *Wordle Applicaton*
+ *Wordle Applicaton*
 
-Submitted by: **Osaze Imohe**
+**Osaze Imohe**
 
 **Wordle Application** is an android app that recreates a simple version of the popular word game [Wordle](https://www.nytimes.com/games/wordle/index.html). 
 
